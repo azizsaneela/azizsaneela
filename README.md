@@ -35,13 +35,14 @@ I enjoy working with **data-driven technologies** and learning new programming l
 -  ⚙️ Git & GitHub
 -  🗄️ Data Structures
 ---
-## My GitHub Repositories
->Some of my projects:
+> Some of my projects:
+
 | Repository | Description | Link |
 |-------------|--------------|------|
 | **student-management** | C++ program using file handling to manage student records | [View Repo](https://github.com/azizsaneela/student-management) |
 | **maze-solver** | Maze solver using recursion and backtracking | [View Repo](https://github.com/azizsaneela/maze-solver) |
 | **portfolio** | Personal website made with HTML, CSS, JS | [View Repo](https://github.com/azizsaneela/portfolio) |
+
 ---
 ## Stats and GitHub Activity
 ---
