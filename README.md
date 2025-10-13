@@ -14,17 +14,18 @@
 - [Contact Me](#-contact-me)
 - [Goals Checklist](#-goals-checklist)
 ---
-## About Me
+ ## About Me
+
 **Full Name:** *Saneela Aziz*  
-**University:** *Punjab University, Lahore*   
-**Department:** *Data Science*
+**University:** Punjab University, Lahore  
+**Department:** Data Science  
 
 I am a **Data Science student** with a strong interest in exploring data to uncover meaningful patterns and insights.  
-I enjoy working with data driven technologies and learning new programming languages.  
+I enjoy working with **data-driven technologies** and learning new programming languages.  
 
-**Interests:** Data Analysis, Machine Learning and Artificial Intelligence.  
+**Interests:** Data Analysis, Machine Learning, and Artificial Intelligence.  
+**Goals:** To become a skilled Data Scientist and contribute to impactful research and innovative solutions.
 
-**Goals:** To become a skilled Data Scientist and contribute to impact research and innovative solutions.  
 ---
 ## Skills
 -  💻 C++
