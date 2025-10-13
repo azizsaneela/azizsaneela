@@ -16,7 +16,7 @@
 ---
 ## About Me
 **Full Name:** *Saneela Aziz*  
-**University:** *Punjab University, Lahore* 
+**University:** *Punjab University, Lahore*   
 **Department:** *Data Science*
 
 I am a **Data Science student** with a strong interest in exploring data to uncover meaningful patterns and insights.  
@@ -43,7 +43,7 @@ I enjoy working with data driven technologies and learning new programming langu
 ---
 ## Stats and GitHub Activity
 ---
-## ✨ Contact Me
+## Contact Me
 - 📧 [saneelaaziz@gmail.com](mailto:saneelaaziz@gmail.com)
 - 💼 [LinkedIn: azizsaneela](https://linkedin.com/in/azizsaneela)
 - 🌍 [PortFolio: saneelaziz.github.io](https://saneelaaziz.github.io)
