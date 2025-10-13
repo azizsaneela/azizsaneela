@@ -7,12 +7,13 @@
 > _"Learn continuously! - there's always one more thing to discover."_
 ---
 ## Table of Contents
-- [About Me](#-about-me)
-- [Skills](#-skills)
-- [My GitHub Repositories](#-my-github-repositories)
-- [Stats and GitHub Activity](#-stats--github-activity)
-- [Contact Me](#-contact-me)
-- [Goals Checklist](#-goals-checklist)
+- [About Me](#about-me)
+- [Skills](#skills)
+- [My GitHub Repositories](#my-github-repositories)
+- [Stats and GitHub Activity](#stats-and-github-activity)
+- [Contact Me](#contact-me)
+- [Goals Checklist](#goals-checklist)
+
 ---
  ## About Me
 
