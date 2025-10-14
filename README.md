@@ -49,7 +49,7 @@ I enjoy working with **data-driven technologies** and learning new programming l
 
 ![Saneela's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizsaneela&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizsaneela&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizsaneelat&theme=radical)
 
 ---
 ## Contact Me
