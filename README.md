@@ -45,11 +45,17 @@ I enjoy working with **data-driven technologies** and learning new programming l
 
 ---
 ## Stats and GitHub Activity
+## 📊 Stats and GitHub Activity
+
+![Saneela's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizsaneela&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizsaneela&layout=compact&theme=radical)
+
 ---
 ## Contact Me
-- 📧 [saneelaaziz@gmail.com](mailto:saneelaaziz@gmail.com)
-- 💼 [LinkedIn: azizsaneela](https://linkedin.com/in/azizsaneela)
-- 🌍 [PortFolio: saneelaziz.github.io](https://saneelaaziz.github.io)
+- 📧 [azizsaneela@gmail.com](mailto:azizsaneela@gmail.com)
+- 💼 [LinkedIn: saneela-aziz](https://www.linkedin.com/in/saneela-aziz-1bb60b38a/)
+- 🌍 [PortFolio: azizsaneela.github.io/portfolio](https://azizsaneela.github.io/portfolio/)
 ---
 ## Goals Checklist
 - [x] Create a repository named after my username
