@@ -54,8 +54,8 @@ I enjoy working with **data-driven technologies** and learning new programming l
 ---
 ## Contact Me
 - 📧 [azizsaneela@gmail.com](mailto:azizsaneela@gmail.com)
-- 💼 [LinkedIn: saneela-aziz](https://www.linkedin.com/in/saneela-aziz-1bb60b38a/)
-- 🌍 [PortFolio: azizsaneela.github.io/portfolio](https://azizsaneela.github.io/portfolio/)
+- 💼 [LinkedIn:saneela-aziz](https://www.linkedin.com/in/saneela-aziz-1bb60b38a/)
+- 🌍 [PortFolio:azizsaneela.github.io/portfolio](https://azizsaneela.github.io/portfolio/)
 ---
 ## Goals Checklist
 - [x] Create a repository named after my username
