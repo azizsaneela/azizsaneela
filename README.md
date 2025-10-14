@@ -47,7 +47,7 @@ I enjoy working with **data-driven technologies** and learning new programming l
 ## Stats and GitHub Activity
 ## 📊 Stats and GitHub Activity
 
-![Saneela's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizsaneela&theme=radical)
+![Saneela's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizsaneela&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azizsaneela&layout=compact&theme=radical)
 
