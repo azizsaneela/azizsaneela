@@ -64,6 +64,6 @@ I enjoy working with **data-driven technologies** and learning new programming l
 - [ ] Contribute to open source
 - [ ] Create my own portfolio website
 ---
-> _"Code. Learn. Repeat."_
-> THank you for visiting my profile!
+> _"Code. Learn. Repeat."_  
+> Thank you for visiting my profile!
 
