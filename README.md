@@ -14,7 +14,7 @@
 - [Contact Me](#contact-me)
 - [Goals Checklist](#goals-checklist)
 
-
+---
  ## About Me
 
 **Full Name:** *Saneela Aziz*  
