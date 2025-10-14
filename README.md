@@ -4,7 +4,7 @@
 </p>
 
 # Hi, I'm **Saneela Aziz**
- _"Learn continuously! - there's always one more thing to discover."_
+> _"Learn continuously! - there's always one more thing to discover."_
 ---
 ## Table of Contents
 - [About Me](#about-me)
