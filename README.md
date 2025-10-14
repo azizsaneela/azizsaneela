@@ -39,7 +39,7 @@ I enjoy working with **data-driven technologies** and learning new programming l
 
 | Repository | Description | Link |
 |-------------|--------------|------|
-| **my-first-repo** |  | [View Repo](https://github.com/azizsaneela/my-first-repo) |
+| **Tic-Tac-Toe Game** |Two-player or AI-based game playable in console or browser.  | [View Repo](https://github.com/azizsaneela/tic-tac-toe) |
 | **maze-solver** | Maze solver using recursion and backtracking | [View Repo](https://github.com/azizsaneela/maze-solver) |
 | **portfolio** | Personal website made with HTML, CSS, JS | [View Repo](https://github.com/azizsaneela/portfolio) |
 
