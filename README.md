@@ -29,11 +29,11 @@ I enjoy working with **data-driven technologies** and learning new programming l
 
 ---
 ## Skills
--  💻 C++
--  🐍 Python
--  🌐 HTML & CSS
--  ⚙️ Git & GitHub
--  🗄️ Data Structures
+1.  💻 C++
+2.  🐍 Python
+3.  🌐 HTML & CSS
+4.  ⚙️ Git & GitHub
+5.  🗄️ Data Structures
 ---
 > Some of my projects:
 
