@@ -35,6 +35,7 @@ I enjoy working with **data-driven technologies** and learning new programming l
 4.  ⚙️ Git & GitHub
 5.  🗄️ Data Structures
 ---
+## My GitHub Repositories
 > Some of my projects:
 
 | Repository | Description | Link |
